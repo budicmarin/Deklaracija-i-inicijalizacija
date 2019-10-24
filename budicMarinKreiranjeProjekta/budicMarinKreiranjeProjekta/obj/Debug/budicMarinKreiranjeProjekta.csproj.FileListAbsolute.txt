@@ -1,0 +1,7 @@
+C:\Users\Marin\source\repos\budicMarinKreiranjeProjekta\budicMarinKreiranjeProjekta\bin\Debug\budicMarinKreiranjeProjekta.exe.config
+C:\Users\Marin\source\repos\budicMarinKreiranjeProjekta\budicMarinKreiranjeProjekta\bin\Debug\budicMarinKreiranjeProjekta.exe
+C:\Users\Marin\source\repos\budicMarinKreiranjeProjekta\budicMarinKreiranjeProjekta\bin\Debug\budicMarinKreiranjeProjekta.pdb
+C:\Users\Marin\source\repos\budicMarinKreiranjeProjekta\budicMarinKreiranjeProjekta\obj\Debug\budicMarinKreiranjeProjekta.csprojAssemblyReference.cache
+C:\Users\Marin\source\repos\budicMarinKreiranjeProjekta\budicMarinKreiranjeProjekta\obj\Debug\budicMarinKreiranjeProjekta.csproj.CoreCompileInputs.cache
+C:\Users\Marin\source\repos\budicMarinKreiranjeProjekta\budicMarinKreiranjeProjekta\obj\Debug\budicMarinKreiranjeProjekta.exe
+C:\Users\Marin\source\repos\budicMarinKreiranjeProjekta\budicMarinKreiranjeProjekta\obj\Debug\budicMarinKreiranjeProjekta.pdb
